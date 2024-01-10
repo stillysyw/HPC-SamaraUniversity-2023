@@ -18,7 +18,6 @@
 
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/cfa3f2c3-23c5-41f3-aabf-e3a60152688c)
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/2bf399a8-d596-4cb5-a6ea-2bc834ef43a3)
-
 ##
 | GridDim = 8192,BlockDim = 512 |	Время GPU,c	| Время CPU,c	| Ускорение |
 | ------------- | ------------- | ------------- | ------------- |
@@ -30,9 +29,7 @@
 
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/614a9913-224a-4f5d-8f4f-755ff3418845)
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/46a6ea17-b698-492f-a380-b6651bcf00f4)
-
 ##
-
 | GridDim = 8192,BlockDim = 256	| Время GPU,c	| Время CPU,c	| Ускорение
 | ------------- | ------------- | ------------- | ------------- |
 | 1000	| 0,000036	| 0,000004	| 0,112309
@@ -43,9 +40,7 @@
 
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/7cd95b28-2e3e-45c4-8cf8-a178299cf90a)
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/d00543d2-8228-48e5-affa-8a379f31afce)
-
 ##
-
 | GridDim = 4096,BlockDim = 1024	| Время GPU,c	| Время CPU,c	| Ускорение
 | ------------- | ------------- | ------------- | ------------- |
 | 1000	| 0,000067	| 0,000005	| 0,075120
@@ -56,9 +51,7 @@
 
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/535acd06-d8cc-4002-8cff-f708c9bdb044)
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/0e447878-9681-4cbe-b56e-780023287c5a)
-
 ##
-
 | GridDim = 4096,BlockDim = 512	| Время GPU,c	| Время CPU,c	| Ускорение
 | ------------- | ------------- | ------------- | ------------- |
 | 1000	| 0,000036	| 0,000004	| 0,110035
@@ -69,9 +62,7 @@
 
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/2bd9a7fb-155f-4b19-b0fd-0b2e732ec52d)
 ![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/9dcfae21-c160-4728-82b8-40ad1b9427e7)
-
 ##
-
 | GridDim = 4096,BlockDim = 256	| Время GPU,c	| Время CPU,c	| Ускорение
 | ------------- | ------------- | ------------- | ------------- |
 | 1000	| 0,000024	| 0,000004	| 0,164258
