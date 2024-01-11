@@ -1,6 +1,10 @@
 # Лабораторная работа "Bilateral filter"
 
+В данной лабораторной работе реализована функция добавления размытия (Bilateral filter) на изображение через CPU и GPU. Код написан на языке Python, для использования графического процессора применялась библиотека Numba.
+
 ## Описание 
+
+
 
 ## Результаты
 
@@ -33,3 +37,12 @@
 <img src="https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/75d96244-f70e-4081-acec-c1fe5462fb70" width="300">
 <img src="https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/3fbce266-4a09-4c49-9d5c-76405269c10f" width="300">
 <img src="https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/0a862c0e-b1fe-4ea5-90e5-a1b036938cfc" width="300">
+
+##
+
+**Графики, зависимости**
+
+![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/3198bc57-13c3-40da-8be2-71e2b7ae01a0)
+![image](https://github.com/stillysyw/HPC-SamaraUniversity-2023/assets/154344530/757bdeab-fee4-4c1e-91bb-841428feae09)
+
+
